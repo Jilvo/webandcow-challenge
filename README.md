@@ -8,7 +8,7 @@ WebAndCo is a website where you can create and make challenges in Python, Php, J
 ### Easy
 - [x] Pierre - Feuille - Ciseaux
 - [x] Coach de foot 
-- [ ] Team Pokemon 
+- [x] Team Pokemon 
 - [ ] Avengers 
 - [ ] Collectionneur de figurines
 - [ ] Cours Forrest, Cours ! 

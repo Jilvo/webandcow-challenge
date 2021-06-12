@@ -11,7 +11,7 @@ WebAndCo is a website where you can create and make challenges in Python, Php, J
 - [x] Team Pokemon 
 - [x] Avengers 
 - [x] Collectionneur de figurines
-- [ ] Cours Forrest, Cours ! 
+- [x] Cours Forrest, Cours ! 
 - [ ] Braquage du coffre
 - [ ] Le Sac de l'Aventurier #1
 - [ ] Vegeta combat ses ennemis 

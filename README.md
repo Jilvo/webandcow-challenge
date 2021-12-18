@@ -12,12 +12,18 @@ WebAndCo is a website where you can create and make challenges in Python, Php, J
 - [x] Avengers 
 - [x] Collectionneur de figurines
 - [x] Cours Forrest, Cours ! 
-- [ ] Braquage du coffre
-- [ ] Le Sac de l'Aventurier #1
+- [x] Braquage du coffre
+- [x] Le Sac de l'Aventurier #1
 - [ ] Vegeta combat ses ennemis 
-- [ ] Code César 
+- [x] Code César 
 - [ ] Batmobile et IA
 - [ ] L'armée de Daenerys
+- [ ] Team Pokemon #2
+- [ ] L’explorateur de l’espace #1
+- [ ] Euro 2020 en 2021
+- [ ] Rolland-Garros
+- [ ] Chiffrement de mots de passe #1
+- [ ] Braquage du coffre #2
 
 ### Medium
 - [ ] WALL-E #1
@@ -32,6 +38,11 @@ WebAndCo is a website where you can create and make challenges in Python, Php, J
 - [ ] Bulma et la Capsule Corp.
 - [ ] Comment noter une classe d'étudiants ? 
 - [ ] Code secret et énoncé secret ! 
+- [ ] Team Pokemon #3
+- [ ] L’explorateur de l’espace #3
+- [ ] L’explorateur de l’espace #2
+- [ ] Détermination de mot de passe
+- [ ] Entrainement Sangoku et Végéta
 ### Hard
 - [ ] WALL-E #2
 - [ ] Attaque des Titans
@@ -39,6 +50,3 @@ WebAndCo is a website where you can create and make challenges in Python, Php, J
 - [ ] Lara Croft aux portes d'un tombeau...
 - [ ] Les Vélociraptors ont été libérés !  
 
-
-## Credits
-All of the creations are the property of WebAndCo --> https://www.webandcow.com/

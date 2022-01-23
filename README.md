@@ -6,18 +6,18 @@ WebAndCo is a website where you can create and make challenges in Python, Php, J
 
 ## Completion 
 ### Easy
-- [x] Pierre - Feuille - Ciseaux
-- [x] Coach de foot 
-- [x] Team Pokemon 
-- [x] Avengers 
-- [x] Collectionneur de figurines
-- [x] Cours Forrest, Cours ! 
-- [x] Braquage du coffre
-- [x] Le Sac de l'Aventurier #1
+- [x] Pierre - Feuille - Ciseaux    (Python)
+- [x] Coach de foot                 (Python)
+- [x] Team Pokemon                  (Python)
+- [x] Avengers                      (Python)   
+- [x] Collectionneur de figurines   (Python)
+- [x] Cours Forrest, Cours !        (Python)
+- [x] Braquage du coffre            (Python)
+- [x] Le Sac de l'Aventurier #1     (Python)
 - [ ] Vegeta combat ses ennemis 
-- [x] Code César 
+- [x] Code César                    (Python)
 - [ ] Batmobile et IA
-- [ ] L'armée de Daenerys
+- [ ] L'armée de Daenerys           (Javascript)
 - [ ] Team Pokemon #2
 - [ ] L’explorateur de l’espace #1
 - [ ] Euro 2020 en 2021

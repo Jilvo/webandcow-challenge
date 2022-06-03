@@ -28,6 +28,9 @@ WebAndCo is a website where you can create and make challenges in Python, Php, J
 - [ ] Rolland-Garros
 - [x] Chiffrement de mots de passe #1
 - [ ] Braquage du coffre #2
+- [x] Les plaques d’immatriculation #1
+- [ ] Survie sur une île déserte #1
+- [ ] STARSHIP #1 : Défense orbitale
 
 ### Medium
 
@@ -48,6 +51,10 @@ WebAndCo is a website where you can create and make challenges in Python, Php, J
 - [ ] L’explorateur de l’espace #2
 - [ ] Détermination de mot de passe
 - [ ] Entrainement Sangoku et Végéta
+- [ ] Le train va t-il arriver à l’heure ?
+- [ ] Survie sur une île déserte #2
+- [ ] WALL-E #4 : un peu de rangement
+- [ ] Dépouillement des bulletins de vote
 
 ### Hard
 

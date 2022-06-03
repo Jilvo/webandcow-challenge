@@ -7,7 +7,7 @@ var mon_armee_nombre = []
 let nombre_dragon = 0
 let nombre_immacules = 0
 let nombre_dotrakis = 0
-var mon_armee_nombre = 
+var mon_armee_nombre =
         {
             dragon:{nombre:3,degats:1000},
             immacules:{nombre:200,degats:15},

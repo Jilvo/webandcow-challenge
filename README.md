@@ -8,6 +8,15 @@ WebAndCo is a website where you can create and make challenges in Python, Php, J
 
 ## Completion
 
+### Starter
+
+- [ ] Utilisation d’une fonction
+- [ ] Boucle foreach
+- [ ] Boucle for
+- [ ] Condition
+- [ ] Variables et concaténation
+- [ ] Variables et calculs
+
 ### Easy
 
 - [x] Pierre - Feuille - Ciseaux (Python)

@@ -10,7 +10,7 @@ WebAndCo is a website where you can create and make challenges in Python, Php, J
 
 ### Starter
 
-- [ ] Utilisation d’une fonction
+- [x] Utilisation d’une fonction (JS)
 - [ ] Boucle foreach
 - [ ] Boucle for
 - [ ] Condition
